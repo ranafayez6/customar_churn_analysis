@@ -22,6 +22,13 @@ This project provides comprehensive analysis of customer churn patterns, reasons
 ### 🛠 Tech Stack
 Python Pandas Matplotlib Seaborn Jupyter Notebook Data Analysis
 
+### dashboard
+<img width="1312" height="786" alt="Screenshot 2025-11-28 231307" src="https://github.com/user-attachments/assets/4bfa9552-5bd1-4608-b4dd-02ddb90da01d" />
+
+<img width="1315" height="740" alt="Screenshot 2025-11-28 231444" src="https://github.com/user-attachments/assets/d7244a4b-7ff9-4c4e-a581-3760775089f0" />
+<img width="1312" height="728" alt="Screenshot 2025-11-28 231739" src="https://github.com/user-attachments/assets/e4580168-c7e8-41cf-8745-bb1012484930" />
+<img width="1312" height="729" alt="Screenshot 2025-11-28 231806" src="https://github.com/user-attachments/assets/f5e7211d-dcc2-4b82-bb40-2ed4e8224063" />
+
 ### 🚀 Quick Start
 ```bash
 git clone https://github.com/your-username/customer-churn-analysis.git
